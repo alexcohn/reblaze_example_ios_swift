@@ -1,0 +1,8 @@
+target 'ReblazeSDK-Example' do
+  use_frameworks!
+  pod 'Reblaze', :git => 'https://bitbucket.org/reblaze/mobilesdk', :tag => 'v1.9.2'
+end
+
+target 'ReblazeSDK-ExampleTests' do
+  use_frameworks!
+end
