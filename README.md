@@ -1,2 +1,8 @@
 # reblaze_example_ios_swift
-Example project integrating Reblaze MobileSDK in a Swift iOS app (with CocoaPods) 
+Example project integrating Reblaze [MobileSDK](https://bitbucket.org/reblaze/mobilesdk) in a Swift iOS app (with CocoaPods) 
+
+This is essentially a clone of https://bitbucket.org/reblaze/mobilesdk/src/master/mobilesdk/examples/ios-xcode11.
+
+Complete documentation for the Reblaze SDK is available here:
+
+https://gb.docs.reblaze.com/v/mobile-sdk/
